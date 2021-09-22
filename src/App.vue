@@ -1,16 +1,18 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Navbar />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ModalStart from './components/ModalResult.vue';
+import ModalResult from './components/ModalResult.vue';
+import ModalWager from './components/ModalWager.vue';
+import Navbar from './components/Navbar.vue';
+import Track from './components/Track.vue';
+
 
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
+  components: { ModalStart, ModalResult, ModalWager, Navbar, Track}
 }
 </script>
 
