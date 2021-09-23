@@ -103,6 +103,4 @@ Jim Mays - jdmays@gmail.com
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* No Dachshunds were harmed in the making of this game 
