@@ -6,7 +6,7 @@
           <p class="text-1xl font-bold">The World Weiner Dog Racing League Presents:</p>
         </div>
         <div class="flex justify-center items-center pb-3">
-          <p class="text-6xl font-bold">Hounds of Fury</p>
+          <p class="text-6xl font-bold">Hounds of Fury <span class="text-red-600 font-bold">2</span></p>
         </div>
                 <!--Body-->
         <div class="space-y-5">
