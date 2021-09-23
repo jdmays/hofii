@@ -89,7 +89,6 @@ The transitions between the elements are harsh.  Ideally I would've liked to hav
 
 I wanted to be able to have the user hover over each dog and get a little tooltip describing their wins, their hobbies, etc.  Ran out of time.
 
----!-- LICENSE -->
 ## License
 
 Distributed under the do whatever you want License. Do whatever you want with it, just don't blame me if it causes a disturbance in the space/time continuum.
